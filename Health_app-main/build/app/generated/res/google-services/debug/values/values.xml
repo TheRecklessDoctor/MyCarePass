@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">802407155958-1kbnrcniq8197j7e68afg09mpeqp1s63.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">802407155958</string>
+    <string name="google_api_key" translatable="false">AIzaSyDbiPD9lYxabwga-YxFi4i4Y8mZGrZ2Aro</string>
+    <string name="google_app_id" translatable="false">1:802407155958:android:dd0e69cb3b8a91949d44d7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDbiPD9lYxabwga-YxFi4i4Y8mZGrZ2Aro</string>
+    <string name="google_storage_bucket" translatable="false">health-passport-app-1dbbd.appspot.com</string>
+    <string name="project_id" translatable="false">health-passport-app-1dbbd</string>
+</resources>
